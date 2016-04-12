@@ -1,6 +1,6 @@
 # Resin.io-Project
 
-SlideShare presentation:
+SlideShare presentation: http://www.slideshare.net/GianlucaLeo1/presentazione-resinio
 Linked-in Page: https://www.linkedin.com/in/gianluca-leo-724032116?trk=hp-identity-name
 E-mail: gianluca.leo.19@gmail.com
 
